@@ -1,0 +1,1 @@
+OutEdgeView([('L-CORE', 'BP-STBL'), ('BP-STBL', 'ADM-DECS'), ('L-SURF', 'SURF-STBL'), ('SURF-STBL', 'ADM-DECS'), ('L-O2', 'ADM-DECS'), ('L-BP', 'BP-STBL'), ('CORE-STBL', 'SURF-STBL'), ('CORE-STBL', 'L-O2'), ('COMFORT', 'L-O2')])
